@@ -31,7 +31,7 @@ export default function Experience() {
         >
           <Row style={{width:"100%"}}>
             <Col style={{padding:0}}>
-              <img src='/assets/slide1.png' style={{width:"100%"}}/>
+              <img src='/alphaafin-website/assets/slide1.png' style={{width:"100%"}}/>
             </Col>
           </Row>
           <Row className='stats'>

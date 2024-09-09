@@ -24,14 +24,14 @@ const OurExpertise: React.FC = () => {
                 <Carousel.Item>
                   <img
                     className="d-block w-100 carousel-image1"
-                    src="/assets/slide1.png"
+                    src="/alphaafin-website/assets/slide1.png"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item>
                   <img
                     className="d-block w-100 carousel-image1"
-                    src="/assets/slide2.png"
+                    src="/alphaafin-website/assets/slide2.png"
                     alt="Second slide"
                   />
                 </Carousel.Item>

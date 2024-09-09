@@ -16,7 +16,7 @@ const ServicesHeader: React.FC<Props> = ({ Title }) => {
       <div
         className="d-flex flex-column justify-content-center align-items-center text-white"
         style={{
-          backgroundImage: "url('/assets/bg.png')",
+          backgroundImage: "url('/alphaafin-website/assets/bg.png')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           height: '400px',

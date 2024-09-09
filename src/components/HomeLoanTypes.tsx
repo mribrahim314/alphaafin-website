@@ -42,7 +42,7 @@ const HomeLoanTypes: React.FC = () => {
             transition={{ duration: 1 }}
           >
             <Image
-              src="/assets/keys.jpg"
+              src="/alphaafin-website/assets/keys.jpg"
               fluid
               style={{ width: "100%", borderRadius: "15px" }}
             />

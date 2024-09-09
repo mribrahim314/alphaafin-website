@@ -27,7 +27,7 @@ export default function AssetFinance() {
         description:"Our team of asset finance specialists is here to guide you through the entire financing process, providing personalized support to ensure a seamless experience."
       },
 
-    ]} imgSrc={'/assets/family.png'} mainTitle={'Secure the Equipment and Assets Your Business Needs with Alphaa Financial Solutions'} subtitle={''} introText={`At Alphaa Financial Solutions, we offer tailored asset and vehicle finance solutions to help you acquire the equipment or vehicle you need with ease.
+    ]} imgSrc={'/alphaafin-website/assets/family.png'} mainTitle={'Secure the Equipment and Assets Your Business Needs with Alphaa Financial Solutions'} subtitle={''} introText={`At Alphaa Financial Solutions, we offer tailored asset and vehicle finance solutions to help you acquire the equipment or vehicle you need with ease.
 Whether you're looking to purchase a new car, upgrade your business equipment, or finance a fleet, our team provides expert advice and customized financing options.
 We streamline the application process and work to secure competitive rates, ensuring you get the best possible terms to support your personal or business objectives.
 Trust us to simplify your asset and vehicle financing, so you can focus on what matters most.`}/>
@@ -35,15 +35,15 @@ Trust us to simplify your asset and vehicle financing, so you can focus on what 
 <LoanOptions loanOptions={[{
     title: "House payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Industrial payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Corporate payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },
   
   

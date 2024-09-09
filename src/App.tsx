@@ -17,10 +17,10 @@ function App() {
     <Router>
       <NavigationBar />
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/about" element={<AboutPage />} />
-        <Route path="/services" element={<Services />} />
-        <Route path="/services/home-loans" element={<HomeLoans />} />
+        <Route path="/alphaafin-website/" element={<HomePage />} />
+        <Route path="/alphaafin-website/about" element={<AboutPage />} />
+        <Route path="/alphaafin-website/services" element={<Services />} />
+        <Route path="/alphaafin-website/services/home-loans" element={<HomeLoans />} />
         <Route path="/services/first-home-buyer" element={<FirstHomeBuyer />} />
         <Route path="/services/refinancing" element={<Refinancing />} />
         <Route path="/services/commercial-loan" element={<CommercialLoan />} />

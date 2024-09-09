@@ -27,7 +27,7 @@ export default function PersonalLoan() {
         description:"Choose from a variety of repayment plans that fit your budget and financial situation. We offer flexible terms to ensure your loan is repaid comfortably and on your terms."
       },
 
-    ]} imgSrc={'/assets/family.png'} mainTitle={`Achieve Your Personal Goals with Alphaa Financial Solutions' Personal Loans`} subtitle={''} introText={`At Alphaa Financial Solutions, we offer a range of personal loan options designed to meet your unique financial needs.
+    ]} imgSrc={'/alphaafin-website/assets/family.png'} mainTitle={`Achieve Your Personal Goals with Alphaa Financial Solutions' Personal Loans`} subtitle={''} introText={`At Alphaa Financial Solutions, we offer a range of personal loan options designed to meet your unique financial needs.
 Whether you're looking to consolidate debt, fund a major purchase, or cover unexpected expenses, our team is dedicated to finding the right loan solution for you.
 We provide personalized support throughout the application process, ensuring you secure the best rates and terms available.
 Trust us to make your financial goals more achievable with tailored, flexible personal loan solutions.`}/>
@@ -35,15 +35,15 @@ Trust us to make your financial goals more achievable with tailored, flexible pe
 <LoanOptions loanOptions={[{
     title: "House payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Industrial payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Corporate payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },
   
   

@@ -14,15 +14,15 @@ export default function Refinancing() {
     <LoanOptions loanOptions={[{
     title: "House payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Industrial payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Corporate payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },
   
   

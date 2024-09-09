@@ -27,22 +27,22 @@ export default function SMSFLending() {
         description:"We offer flexible repayment plans that align with your SMSF’s cash flow, helping you manage your retirement savings with confidence and ease."
       },
 
-    ]} imgSrc={'/assets/family.png'} mainTitle={`Maximize Your Retirement Savings with Alphaa Financial Solutions' SMSF`} subtitle={''} introText={`At Alphaa Financial Solutions, we offer expert guidance on Self-Managed Super Fund (SMSF) loans to help you maximize your investment potential.
+    ]} imgSrc={'/alphaafin-website/assets/family.png'} mainTitle={`Maximize Your Retirement Savings with Alphaa Financial Solutions' SMSF`} subtitle={''} introText={`At Alphaa Financial Solutions, we offer expert guidance on Self-Managed Super Fund (SMSF) loans to help you maximize your investment potential.
 Whether you're looking to acquire residential or commercial property through your SMSF, our team provides tailored advice and innovative financing solutions to suit your needs.
 With our deep understanding of SMSF regulations and market trends, we ensure a seamless process, allowing you to leverage your superannuation for strategic investment opportunities and achieve your long-term financial goals.`}/>
 <MortgageEstimateSection/>
 <LoanOptions loanOptions={[{
     title: "House payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Industrial payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Corporate payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },
   
   

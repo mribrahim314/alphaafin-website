@@ -26,22 +26,22 @@ export default function CommercialLoan() {
       description:"Our team of commercial loan experts is dedicated to guiding you through every step of the loan process, from application to disbursement, ensuring a smooth and efficient experience."
 
     },
-  ]} imgSrc={'/assets/family.png'} mainTitle={'Financing Solutions for Your Business Growth'} subtitle={'Empower Your Business with Tailored Commercial Loans from Alphaa Financial Solutions'} introText={`At Alphaa Financial Solutions, we specialize in providing comprehensive commercial and business loan solutions tailored to your unique needs. Whether you're seeking capital for expansion, equipment purchases, or working capital, our team is dedicated to finding the right financing option to fuel your growth.
+  ]} imgSrc={'/alphaafin-website/assets/family.png'} mainTitle={'Financing Solutions for Your Business Growth'} subtitle={'Empower Your Business with Tailored Commercial Loans from Alphaa Financial Solutions'} introText={`At Alphaa Financial Solutions, we specialize in providing comprehensive commercial and business loan solutions tailored to your unique needs. Whether you're seeking capital for expansion, equipment purchases, or working capital, our team is dedicated to finding the right financing option to fuel your growth.
 We offer personalized service and expert guidance throughout the loan process, ensuring you secure competitive rates and terms that align with your business objectives.
 Trust us to help you navigate the complexities of commercial financing and achieve your business goals with confidence.`} />
 <MortgageEstimateSection/>
 <LoanOptions loanOptions={[{
     title: "House payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Industrial payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },{
     title: "Corporate payment",
     description: "Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
-    image: "/assets/meeting.jpg"
+    image: "/alphaafin-website/assets/meeting.jpg"
   },
   
   

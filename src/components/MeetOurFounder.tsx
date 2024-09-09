@@ -14,7 +14,7 @@ const MeetOurFounder: React.FC = () => {
         </Col>
         <Col xs={12} md={6} lg={4}>
           <Image 
-            src="/assets/punjabi.png" 
+            src="/alphaafin-website/assets/punjabi.png" 
             alt="Mr. Pawan Punjabi" 
             fluid 
             className="mb-3"

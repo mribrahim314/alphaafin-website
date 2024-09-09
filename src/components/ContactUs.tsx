@@ -79,7 +79,7 @@ const ContactUs: React.FC = () => {
             viewport={{once:true}}
             transition={{ duration: 1 }}
           >
-            <Image src="/assets/phone.png" alt="Contact Us" fluid rounded />
+            <Image src="/alphaafin-website/assets/phone.png" alt="Contact Us" fluid rounded />
           </motion.div>
         </Col>
       </Row>

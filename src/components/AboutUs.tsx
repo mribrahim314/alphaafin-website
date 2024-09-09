@@ -30,7 +30,7 @@ const AboutUs: React.FC = () => {
               >
                 <div className="about-us-image-wrapper">
                   <img
-                    src="/assets/slide2.png"
+                    src="/alphaafin-website/assets/slide2.png"
                     alt="Happy family"
                     className="about-us-image"
                   />

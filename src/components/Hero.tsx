@@ -27,13 +27,13 @@ const SliderComponent: React.FC = () => {
   const slides: Slide[] = [
     {
       id: 'slide-1',
-      imgSrc: '/assets/slide1.png',
+      imgSrc: '/alphaafin-website/assets/slide1.png',
       captionHeader: 'Empowering Financial Security for Everyone',
       captionText: 'We are committed to providing accessible and reliable financial services to help individuals and families.',
     },
     {
       id: 'slide-2',
-      imgSrc: '/assets/slide2.png',
+      imgSrc: '/alphaafin-website/assets/slide2.png',
       captionHeader: 'Empowering Financial Security for Everyone',
       captionText: 'We are committed to providing accessible and reliable financial services to help individuals and families.',
     },

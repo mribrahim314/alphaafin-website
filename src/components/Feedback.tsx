@@ -58,19 +58,19 @@ const Feedback: React.FC = () => {
           <div className="profile-container">
             <img
               key={1}
-              src='/assets/profiles/profile1.png'
+              src='/alphaafin-website/assets/profiles/profile1.png'
               alt='Profile 1'
               className="profile-image"
             />
             <img
               key={2}
-              src='/assets/profiles/profile2.png'
+              src='/alphaafin-website/assets/profiles/profile2.png'
               alt='Profile 2'
               className="profile-image"
             />
             <img
               key={3}
-              src='/assets/profiles/profile3.png'
+              src='/alphaafin-website/assets/profiles/profile3.png'
               alt='Profile 3'
               className="profile-image"
             />

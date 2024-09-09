@@ -3,7 +3,7 @@ import { Container, Row, Col, Card, Carousel } from 'react-bootstrap';
 import './OurServices.css';
 
 // Icons
-const HomeIcon = () => <img src='/assets/services/service1.png' alt='Home Icon' style={{ width: '50px' }} />;
+const HomeIcon = () => <img src='/alphaafin-website/assets/services/service1.png' alt='Home Icon' style={{ width: '50px' }} />;
 const RefIcon = () => <span>🔄</span>;
 const InvestIcon = () => <span>💼</span>;
 const SelfIcon = () => <span>🏋️</span>;
@@ -65,7 +65,7 @@ const OurServices: React.FC = () => {
       <Carousel.Item>
         <img
           className="d-block w-100 carousel-image"
-          src="/assets/slide1.png"
+          src="/alphaafin-website/assets/slide1.png"
           alt="First slide"
         />
         <Carousel.Caption className="custom-caption1">
@@ -82,7 +82,7 @@ const OurServices: React.FC = () => {
       <Carousel.Item>
         <img
           className="d-block w-100 carousel-image"
-          src="/assets/slide2.png"
+          src="/alphaafin-website/assets/slide2.png"
           alt="Second slide"
         />
         <Carousel.Caption className="custom-caption1">

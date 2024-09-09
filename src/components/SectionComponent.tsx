@@ -22,10 +22,10 @@ const SectionComponent: React.FC = () => {
     animate={inView ? { opacity: 1, x: 150 } : { opacity: 0, x: -50,y:120 }}
     transition={{ duration: 1 }}
   >
-    <img src="/assets/house.png" alt="house" />
+    <img src="/alphaafin-website/assets/house.png" alt="house" />
 </motion.div>
 <div className='family'>
-    <img src="/assets/slide1.png" alt="family" />
+    <img src="/alphaafin-website/assets/slide1.png" alt="family" />
 </div>
 <motion.div className='empty' 
     initial={{ opacity: 0, x: 500 }}
