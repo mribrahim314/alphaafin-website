@@ -1,7 +1,7 @@
 import React from 'react';
-import { Container, Row, Col, Button } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope, FaTwitter, FaTelegramPlane, FaWordpressSimple, FaPhone } from 'react-icons/fa';
-import './Footer.css'; // Create a separate CSS file for custom styling
+import './Footer.css'; 
 
 const Footer: React.FC = () => {
   return (
