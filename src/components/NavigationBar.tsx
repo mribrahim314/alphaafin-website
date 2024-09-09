@@ -14,7 +14,7 @@ const NavigationBar = () => {
 
   const handleServicesClick = (e: any) => {
     if (e.target.classList.contains('dropdown-toggle')) {
-      navigate('/services');
+      navigate('/alphaafin-website/services');
     }
   };
 
@@ -50,7 +50,7 @@ const NavigationBar = () => {
 
       <Navbar color='white' expand="lg" className="main-navbar" expanded={expanded}>
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand href="/alphaafin-website/">
             <img
               src="/alphaafin-website/assets/logo.png"
               alt="Alphaa Financial Solutions"
