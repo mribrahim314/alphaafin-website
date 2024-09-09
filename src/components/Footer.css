@@ -1,0 +1,68 @@
+.footer-wrapper {
+    background-color: #1E1E2D;
+    color: #ffffff;
+    padding: 3rem 0 1rem;
+  }
+  
+  .section-title {
+    color: #ff9021;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-item svg {
+    margin-right: 0.5rem;
+    color: #ff9021;
+  }
+  
+  .opening-hours {
+    background-color: #2A2A3A;
+    border-radius: 10px;
+    padding: 1.5rem;
+    width: 100%;
+  }
+  
+  .hour-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    color: #ff9021;
+  }
+  .custom-btn2{
+    background-color: #ff9021;
+    padding: 0.6rem;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  .custom-btn2:hover{
+    background-color: white;
+  }
+  
+  .social-icon {
+    background-color:#ff9021;;
+    color: #1E1E2D;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    transform: translateY(-3px);
+  }
+  

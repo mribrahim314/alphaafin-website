@@ -1,0 +1,165 @@
+.navigation {
+    width: 100%;
+  }
+  
+  .top-header {
+    font-size: 0.9rem;
+  }
+  
+  .top-header .bi {
+    font-size: 1.1rem;
+  }
+  
+  .top-header .text-warning {
+    color: #ff8800 !important;
+  }
+  
+  .main-navbar {
+    background-color: white;
+  }
+  
+  .main-navbar .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .main-navbar .brand-name {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #001d42;
+  }
+  
+  .main-navbar .logo {
+    width: 250px;
+  }
+  
+  .main-navbar .nav-link {
+    font-weight: bold;
+    color: #001d42;
+    margin-left: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .main-navbar .nav-link:hover {
+    background-color: #001d42;
+    color: white;
+  }
+  
+ 
+  .dropdown-menu {
+    border-radius: 0 !important;
+    font-weight: bold !important;
+    background-color: #f9f9f9 !important; 
+    padding: 1rem !important; 
+    border: 1px solid #ddd !important; 
+    width: 350px !important; 
+  }
+  
+  .dropdown-item {
+    padding: 10px 20px !important; 
+    font-size: 1rem !important; 
+    color: #001d42 !important; 
+    border-bottom: 1px solid #ddd !important; 
+  }
+  
+  
+  .dropdown-item:last-child {
+    border-bottom: none !important;
+  }
+  
+ 
+  .dropdown-item:hover {
+    background-color: #001d42 !important;
+    color: white !important;
+  }
+  
+
+  .main-navbar .call-button {
+    border-radius: 0.25rem;
+    background-color: #001d42;
+    color: white;
+    font-weight: bold;
+    padding: 1rem 1.25rem;
+  }
+  
+  .main-navbar .call-button:hover {
+    background-color: #ff8800;
+    border-color: #ff8800;
+  }
+  
+
+  @media (max-width: 992px) {
+    .main-navbar .logo {
+      width: 200px; 
+    }
+  
+    .main-navbar .nav-link {
+      font-size: 0.875rem;
+      margin-left: 10px;
+    }
+  
+    .dropdown-menu {
+      width: 250px !important; 
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .top-header {
+      font-size: 0.8rem;
+      flex-direction: column; 
+    }
+  
+    .top-header .bi {
+      font-size: 1rem;
+    }
+  
+    .main-navbar .logo {
+      width: 150px; 
+    }
+  
+    .main-navbar .nav-link {
+      font-size: 0.75rem;
+      margin-left: 5px;
+    }
+  
+    .dropdown-menu {
+        position: static !important;
+        float: none;
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        width: 100%;
+      }
+    
+    
+
+    
+
+
+  }
+  
+  @media (max-width: 576px) {
+    .top-header {
+      font-size: 0.7rem;
+      text-align: center; 
+    }
+  
+    .top-header .bi {
+      font-size: 0.9rem;
+    }
+  
+    .main-navbar .logo {
+      width: 120px; 
+    }
+  
+    .main-navbar .nav-link {
+      font-size: 0.7rem; 
+      margin-left: 3px;
+    }
+  
+    .dropdown-menu {
+      width: 100% !important; 
+      padding: 0.5rem !important; 
+    }
+  }
+  

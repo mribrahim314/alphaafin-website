@@ -1,0 +1,37 @@
+.cta-section {
+    background: linear-gradient(135deg, #FFA500, #FF8C00);
+    padding: 4rem 0;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .cta-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+    z-index: -10;
+  }
+  .custom-btn1{
+    background-color: white;
+    padding: 1rem 2rem;
+    border-radius:8px;
+    border: none;
+    font-weight: bold;
+  }
+
+  
+  .plus {
+    position: absolute;
+    font-size: 2rem;
+    color: rgba(255,255,255,0.2);
+  }
+  
+  .plus-1 { top: 10%; left: 5%; }
+  .plus-2 { top: 20%; right: 10%; }
+  .plus-3 { bottom: 15%; left: 15%; }
+  

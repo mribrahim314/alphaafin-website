@@ -1,0 +1,69 @@
+.exp-section{
+
+        background: linear-gradient(#282a38 50%, white 50%);
+        height: 100vh;
+        overflow: hidden;
+        margin: 3rem 0;
+
+}
+.experience{
+    height: 100%;
+}
+
+.lenders{
+    background-color:#23232c ;
+}
+.lenders img{
+    border-bottom-left-radius: 20px;
+    object-fit: cover;
+}
+
+
+.stats .col div{
+    background-color: white;
+    border-radius: 20px;
+    
+    text-align: center;
+    padding: 3rem;
+  width:20rem;
+
+}
+.card-exp {
+    transform: translateY(-6rem);
+    transition: transform 0.3s ease-in-out, border-bottom 0.3s ease-in-out; /* Smooth transition on hover */
+    border-bottom: 7px solid #ff9021;
+}
+
+.card-exp1 {
+    transform: translateY(-3rem);
+    transition: transform 0.3s ease-in-out, border-bottom 0.3s ease-in-out; 
+    border-bottom: 7px solid #ff9021;
+}
+
+.card-exp:hover {
+    transform: translateY(-8rem);
+    border-bottom: 7px solid #282a38; /* Change to the desired hover border color */
+}
+
+.card-exp1:hover {
+    transform: translateY(-5rem); 
+    border-bottom: 7px solid #282a38; /* Change to the desired hover border color */
+}
+
+
+
+
+
+
+.bright{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 100%;
+    background-color: #23232c;
+    border-top-left-radius: 20px; 
+    border-bottom-left-radius: 20px;
+}

@@ -1,0 +1,96 @@
+/* HomeLoanOptions.css */
+
+.container-custom1 {
+    margin-top: 5rem;
+  }
+  
+  .text-center-custom {
+    text-align: center;
+    margin-bottom: 5rem;
+  }
+  
+  .svg-icon {
+    width: 30px;
+    height: 20px;
+  }
+  
+  .heading-title {
+    width: 50rem;
+    margin: auto;
+    font-weight: bold;
+    margin-top: 5rem;
+  }
+  
+   .card-custom4 {
+    margin: 0 2rem;
+    padding: 1rem 2rem;
+    min-height: 12rem;
+    transform: translateY(-11rem);
+    background-color: #f4f4f5;
+    border: none;
+    border-radius: 15px;
+    border-bottom: 6px solid #ff9021;
+    transition: transform 0.3s ease-in-out, border-bottom 0.3s ease-in-out; 
+  }
+  .card-custom4:hover {
+    transform: translateY(-13rem);
+    border-bottom: 7px solid #282a38;
+  }
+  
+  .image-custom1 {
+    width: 40rem;
+    border-radius: 15px;
+    margin-bottom: 3rem;
+  }
+  
+  .card-title-custom {
+    text-align: center;
+    
+  }
+
+  @media (max-width: 576px) {
+    .heading-title {
+      font-size: 1.5rem;
+    }
+  
+    .card-custom4 {
+      padding: 0.5rem;
+
+    }
+  
+    .image-custom1 {
+      margin-bottom: 1rem;
+    }
+  }
+
+  @media (max-width: 992px) {
+    .heading-title {
+      width: 100%;
+      margin-top: 4rem;
+      font-size: 2rem;
+    }
+    .card-custom4 {
+      transform: translateY(-4rem);
+    }
+    .card-custom4:hover {
+      transform: translateY(-5rem);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .container-custom1 {
+      margin-top: 3rem;
+    }
+  
+    .image-custom1 {
+      width: 100%;
+    }
+  
+    .heading-title {
+      font-size: 1.8rem;
+      margin-top: 2rem;
+    }
+  
+
+  }
+  

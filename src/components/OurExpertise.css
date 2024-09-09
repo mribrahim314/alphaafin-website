@@ -1,0 +1,61 @@
+
+
+.carousel-container2 {
+    border-radius: 20px;  
+    overflow: hidden;
+  }
+  
+  .whychooseus {
+    color: #ff9021;
+  }
+  
+  .carousel-image1 {
+    border-radius: 20px;  
+    object-fit: cover;    
+    width: 100%;
+    height: auto; 
+    border-bottom: 7px solid #ff9021;
+    border-left: 7px solid #ff9021;
+  }
+  
+  .full-height-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #2a2c38;
+  }
+  
+  .custom-container1 {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+
+  @media (max-width: 992px) {
+    .custom-container1 {
+      padding: 0 1rem; 
+    }
+  
+    .carousel-container2 {
+      border-bottom: 5px solid #ff9021;
+      border-left: 5px solid #ff9021;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .full-height-section {
+      height: auto; 
+      padding: 2rem 0;
+    }
+  
+    .custom-container1 {
+      max-width: 100%;
+      padding: 0 1rem; 
+    }
+  
+    .carousel-container2 {
+      border-bottom: 3px solid #ff9021;
+      border-left: 3px solid #ff9021;
+    }
+  }
+  
