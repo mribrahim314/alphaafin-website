@@ -52,7 +52,7 @@ const NavigationBar = () => {
         <Container>
           <Navbar.Brand href="/">
             <img
-              src="/alphaafin-website/assets/logo.png"
+              src="/alphaafin-website/public/assets/logo.png"
               alt="Alphaa Financial Solutions"
               className="logo me-2"
             />
