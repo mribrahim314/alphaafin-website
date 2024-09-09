@@ -64,7 +64,7 @@ const NavigationBar = () => {
           />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <LinkContainer to="/" onClick={handleNavItemClick}>
+              <LinkContainer to="/alphaafin-website/" onClick={handleNavItemClick}>
                 <Nav.Link>HOME</Nav.Link>
               </LinkContainer>
               <LinkContainer to="/about" onClick={handleNavItemClick}>

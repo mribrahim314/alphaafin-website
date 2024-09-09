@@ -21,12 +21,12 @@ function App() {
         <Route path="/alphaafin-website/about" element={<AboutPage />} />
         <Route path="/alphaafin-website/services" element={<Services />} />
         <Route path="/alphaafin-website/services/home-loans" element={<HomeLoans />} />
-        <Route path="/services/first-home-buyer" element={<FirstHomeBuyer />} />
-        <Route path="/services/refinancing" element={<Refinancing />} />
-        <Route path="/services/commercial-loan" element={<CommercialLoan />} />
-        <Route path="/services/asset-finance" element={<AssetFinance />} />
-        <Route path="/services/personal-loan" element={<PersonalLoan />} />
-        <Route path="/services/self-managed-super-fund-smsf-lending" element={<SMSFLending />} />
+        <Route path="/alphaafin-website/services/first-home-buyer" element={<FirstHomeBuyer />} />
+        <Route path="/alphaafin-website/services/refinancing" element={<Refinancing />} />
+        <Route path="/alphaafin-website/services/commercial-loan" element={<CommercialLoan />} />
+        <Route path="/alphaafin-website/services/asset-finance" element={<AssetFinance />} />
+        <Route path="/alphaafin-website/services/personal-loan" element={<PersonalLoan />} />
+        <Route path="/alphaafin-website/services/self-managed-super-fund-smsf-lending" element={<SMSFLending />} />
       </Routes>
     </Router>
   );
