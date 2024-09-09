@@ -67,7 +67,7 @@ const NavigationBar = () => {
               <LinkContainer to="/alphaafin-website/" onClick={handleNavItemClick}>
                 <Nav.Link>HOME</Nav.Link>
               </LinkContainer>
-              <LinkContainer to="/about" onClick={handleNavItemClick}>
+              <LinkContainer to="/alphaafin-website/about" onClick={handleNavItemClick}>
                 <Nav.Link>ABOUT US</Nav.Link>
               </LinkContainer>
 
@@ -80,25 +80,25 @@ const NavigationBar = () => {
                 onMouseLeave={handleMouseLeave}
                 onClick={handleServicesClick}
               >
-                <LinkContainer to="/services/home-loans" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/home-loans" onClick={handleNavItemClick}>
                   <NavDropdown.Item>Home Loan</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/services/first-home-buyer" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/first-home-buyer" onClick={handleNavItemClick}>
                   <NavDropdown.Item>First Home Buyer</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/services/refinancing" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/refinancing" onClick={handleNavItemClick}>
                   <NavDropdown.Item>Refinancing</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/services/commercial-loan" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/commercial-loan" onClick={handleNavItemClick}>
                   <NavDropdown.Item>Commercial Loan</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/services/asset-finance" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/asset-finance" onClick={handleNavItemClick}>
                   <NavDropdown.Item>Asset Finance</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/services/personal-loan" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/personal-loan" onClick={handleNavItemClick}>
                   <NavDropdown.Item>Personal Loan</NavDropdown.Item>
                 </LinkContainer>
-                <LinkContainer to="/services/self-managed-super-fund-smsf-lending" onClick={handleNavItemClick}>
+                <LinkContainer to="/alphaafin-website/services/self-managed-super-fund-smsf-lending" onClick={handleNavItemClick}>
                   <NavDropdown.Item>Self-Managed Super Fund (SMSF) Lending</NavDropdown.Item>
                 </LinkContainer>
               </NavDropdown>
